@@ -1,0 +1,4 @@
+Java is a high-level programming language originally developed by Sun Microsystems and now owned by Oracle.
+It was designed to be platform-independent, meaning that Java programs can run on any operating system with a Java Virtual Machine (JVM).
+Однією з ключових особливостей Java є принцип "write once, run anywhere", який дозволяє розробникам писати код один раз і виконувати його на різних платформах.
+Це досягається за допомогою байткоду - платформонезалежного проміжного представлення коду, який виконується JVM.
